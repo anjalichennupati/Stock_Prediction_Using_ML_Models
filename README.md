@@ -4,6 +4,33 @@ This project was part of a college coursework focused on predicting future stock
 
 ---
 
+### 🚀Installation and Directory Structure
+
+1. **Upload files to Google Colab:**
+    - Open [Google Colab](https://colab.research.google.com/).
+    - Click on **File** > **Upload notebook** and upload the `.ipynb` file from the `/KNN`, `/SVM`, or `/Decision_Trees` folders.
+    - Upload the corresponding `.csv` file from your `/data` folder by using the following code in Colab:
+      ```python
+      from google.colab import files
+      uploaded = files.upload()
+      ```
+
+2. **Adjust file paths:**
+    - After uploading, use the filename directly if the file was uploaded to the Colab environment.
+    - For example, to load the CSV file:
+      ```python
+      data = pd.read_csv('file1.csv')
+      ```
+
+3. **Run the code**: Execute the notebook cells one by one to run the model.
+
+
+- `/data`: Contains all the CSV files used in the project.
+- `/KNN and SVM`: Jupyter notebooks related to K-Nearest Neighbors (KNN) model and  Vector Machines (SVM) model.
+- `/Decision Trees`: Jupyter notebooks related to Decision Trees model.
+
+---
+
 ## 🛠️ Data Pre-processing
 
 - **Libraries Used:**  
@@ -92,9 +119,7 @@ Here’s a summary of the accuracy values for each dataset and algorithm:
 
 This project demonstrates the effectiveness of various machine learning algorithms in predicting future stock prices. The analysis reveals that different algorithms perform differently depending on the dataset. Among the chosen datasets, **Infosys** (an MNC) exhibited the highest accuracy, particularly with the **KNN algorithm**. The project concludes by emphasizing the importance of machine learning algorithms in stock price prediction, acknowledging their variability in accuracy depending on the dataset characteristics.
 
----
 
-### 🚀Installation
 
 
 
