@@ -53,6 +53,9 @@ This project was part of a college coursework focused on predicting future stock
 - **Accuracy Evaluation:**  
   The accuracy of the model was evaluated.
 
+  ![image](https://github.com/user-attachments/assets/7f6e965a-f441-4401-ac17-c1472479ab8d)
+
+
 ### 2. Support Vector Machine (SVM) Algorithm
 - **Model Training:**  
   A `Support Vector Regressor (SVR)` model with a linear kernel was trained on the training data.
