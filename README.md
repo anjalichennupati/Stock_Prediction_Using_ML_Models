@@ -94,11 +94,8 @@ This project demonstrates the effectiveness of various machine learning algorith
 
 ---
 
-### 🚀 Future Work
-- Experiment with more advanced models like LSTM or GRU for time-series prediction.
-- Incorporate additional features such as news sentiment analysis or macroeconomic indicators.
-- Optimize hyperparameters for better model performance.
+### 🚀Installation
 
----
 
-### 📂 Repository Structure
+
+
