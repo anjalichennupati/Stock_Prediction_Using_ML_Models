@@ -10,17 +10,11 @@ This project was part of a college coursework focused on predicting future stock
     - Open [Google Colab](https://colab.research.google.com/).
     - Click on **File** > **Upload notebook** and upload the `.ipynb` file from the `/KNN`, `/SVM`, or `/Decision_Trees` folders.
     - Upload the corresponding `.csv` file from your `/data` folder by using the following code in Colab:
-      ```python
-      from google.colab import files
-      uploaded = files.upload()
-      ```
+     
 
 2. **Adjust file paths:**
     - After uploading, use the filename directly if the file was uploaded to the Colab environment.
-    - For example, to load the CSV file:
-      ```python
-      data = pd.read_csv('file1.csv')
-      ```
+    
 
 3. **Run the code**: Execute the notebook cells one by one to run the model.
 
