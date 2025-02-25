@@ -112,3 +112,7 @@ Here’s a summary of the accuracy values for each dataset and algorithm:
 ## 🎯 Conclusion
 
 This project demonstrates the effectiveness of various machine learning algorithms in predicting future stock prices. The analysis reveals that different algorithms perform differently depending on the dataset. Among the chosen datasets, **Infosys** (an MNC) exhibited the highest accuracy, particularly with the **KNN algorithm**. The project concludes by emphasizing the importance of machine learning algorithms in stock price prediction, acknowledging their variability in accuracy depending on the dataset characteristics.
+
+## Running Tests
+
+The project can be implemented and tested to verify funtionality
