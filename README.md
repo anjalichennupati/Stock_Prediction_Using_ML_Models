@@ -1,6 +1,7 @@
 # 📈 Stock Price Prediction
 
 This project was part of a college coursework focused on predicting future stock prices using basic machine learning algorithms and data preprocessing techniques. Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2022.
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
